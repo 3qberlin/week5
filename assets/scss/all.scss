@@ -1,1 +1,12 @@
 // 這裡載入 scss下面 的 _.scss檔案
+@import "../../node_modules/bootstrap/scss/bootstrap.scss";
+@import "../scss/base/base";
+@import "../scss/state/hover";
+@import "../scss/utilities/margin";
+@import "../scss/utilities/padding";
+@import "../scss/utilities/lineHeight";
+@import "../scss/utilities/height";
+@import "../scss/utilities/font";
+@import "../scss/utilities/color";
+@import "../scss/theme/direction";
+@import "../scss/theme/color";

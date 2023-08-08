@@ -1,0 +1,28 @@
+.p{
+    &t-{
+        &32px{
+            padding-top: 2rem;
+        } 
+    }
+    &l-{
+        &32px{
+            padding-left: 2rem;
+        } 
+    }
+    &r-{
+        &20px{
+            padding-right: 1.25rem;
+        } 
+    }
+    &r-{
+        &32px{
+            padding-right: 2rem;
+        } 
+    }
+}
+
+.p-{
+    &12px{
+        padding: 12px;
+    }
+}
